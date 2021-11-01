@@ -6,9 +6,6 @@
 
 Sample netcoreapp3.1 reference application, powered by Microsoft, and using sqlite.
 
-## Some layout
+## Layout
 
 ![](docs/images/image1.png)
-![](docs/images/image2.png)
-![](docs/images/image3.png)
-![](docs/images/image4.png)
